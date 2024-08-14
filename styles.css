@@ -6,15 +6,38 @@ body {
 }
 
 img {
-  width: 100px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
 
 .hero {
   background-image: url(/images/hawaiibeach.jpg);
   background-size: cover;
-  height: 720px;
+  height: 343px;
 }
 
 h1 {
-  background-color: blue;
+  background-color: #d4a373;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+h2 {
+  background-color: #ccd5ae;
+  width: 750px;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 10px;
+}
+
+.activities {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fefae0;
 }

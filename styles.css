@@ -40,4 +40,29 @@ h2 {
   align-items: center;
   justify-content: center;
   background-color: #fefae0;
+  height: 378px;
+  padding: auto;
+}
+
+.guide {
+  background-color: #d4a373;
+  display: flex;
+  width: 400px;
+  align-items: center;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.guide-img {
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.guide-info {
+  margin-top: 00px;
 }
